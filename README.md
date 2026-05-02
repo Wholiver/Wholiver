@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats
 
-![Wholiver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wholiver&show_icons=true&theme=dark)
+![Wholiver's GitHub stats](assets/github-stats.svg)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wholiver&layout=compact&theme=dark)
 

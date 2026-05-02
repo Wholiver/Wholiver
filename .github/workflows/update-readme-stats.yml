@@ -1,0 +1,36 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch GitHub Stats SVG
+        run: |
+          TMPFILE=$(mktemp)
+          if curl -f -s -o "$TMPFILE" \
+              "https://github-readme-stats.vercel.app/api?username=Wholiver&show_icons=true&theme=dark&cache_seconds=86400" \
+              && grep -q '<svg' "$TMPFILE"; then
+            mv "$TMPFILE" assets/github-stats.svg
+          else
+            echo "::warning::Failed to fetch a valid SVG; keeping existing cached file."
+            rm -f "$TMPFILE"
+          fi
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add assets/github-stats.svg
+          git diff --staged --quiet || git commit -m "chore: update cached GitHub stats SVG [skip ci]"
+          git push
