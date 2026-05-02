@@ -1,15 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm @Wholiver
-
----
-
-## 🛠️ Tech Stack
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
+# 👋 Hi, Welcome to my profile
 
 ---
 
