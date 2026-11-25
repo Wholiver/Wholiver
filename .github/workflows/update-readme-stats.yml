@@ -19,7 +19,7 @@ jobs:
         run: |
           TMPFILE=$(mktemp)
           if curl -f -s -o "$TMPFILE" \
-              "https://github-readme-stats.vercel.app/api?username=Wholiver&show_icons=true&theme=dark&cache_seconds=86400" \
+              "https://github-readme-stats.vercel.app/api?username=Wholiver&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" \
               && grep -q '<svg' "$TMPFILE"; then
             mv "$TMPFILE" assets/github-stats.svg
           else
