@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0ea5e9&height=220&section=header&text=Chenrui%20Hu&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20Coding%20Agents%20%C2%B7%20Developer%20Tools%20%C2%B7%20SwiftUI&descAlignY=62&descSize=16&animation=fadeIn" width="100%" alt="Chenrui Hu Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0ea5e9&height=220&section=header&text=Wholiver&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Coding%20Agents%20%C2%B7%20Developer%20Tools%20%C2%B7%20SwiftUI&descAlignY=62&descSize=16&animation=fadeIn" width="100%" alt="Wholiver Header" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+AI+Coding+Agents+%26+Harness+Engineering;Crafting+SwiftUI+Apps+%26+Design+Systems;Deterministic+Reverse+Engineering+%26+FastMCP;Build+cool+things." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+AI+Coding+Agents+%26+Skills;Crafting+SwiftUI+Apps+%26+Design+Systems;Developer+Tools+%26+Agent+Workflows;Build+cool+things." alt="Typing SVG" />
 </a>
 
 <br />
@@ -16,12 +16,6 @@
   <a href="https://github.com/Wholiver?tab=followers">
     <img src="https://img.shields.io/github/followers/Wholiver?label=Followers&style=for-the-badge&logo=github&color=1e293b&logoColor=38bdf8" alt="GitHub Followers" />
   </a>
-  <a href="https://metisagent.tech">
-    <img src="https://img.shields.io/badge/Metis-metisagent.tech-312e81?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Metis Website" />
-  </a>
-  <a href="mailto:oliverhuchnerui@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email" />
-  </a>
 </p>
 
 <br />
@@ -30,24 +24,25 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Wholiver/metis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wholiver&repo=metis&theme=tokyonight&hide_border=true" width="100%" alt="metis" />
+      <a href="https://github.com/Wholiver/swiftui-design-skill">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wholiver&repo=swiftui-design-skill&theme=tokyonight&hide_border=true" width="100%" alt="swiftui-design-skill" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/Wholiver/swiftui-design-skill">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wholiver&repo=swiftui-design-skill&theme=tokyonight&hide_border=true" width="100%" alt="swiftui-design-skill" />
+      <a href="https://github.com/Wholiver/Math.Skill">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wholiver&repo=Math.Skill&theme=tokyonight&hide_border=true" width="100%" alt="Math.Skill" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Wholiver/metis-reverse">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wholiver&repo=metis-reverse&theme=tokyonight&hide_border=true" width="100%" alt="metis-reverse" />
+      <a href="https://github.com/Wholiver/Mochi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wholiver&repo=Mochi&theme=tokyonight&hide_border=true" width="100%" alt="Mochi" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github-readme-stats.vercel.app/api/pin/?username=Wholiver&repo=Math.Skill&theme=tokyonight&hide_border=true" width="100%" alt="Math.Skill" />
+      <a href="https://github.com/Wholiver/Ta.Skill">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wholiver&repo=Ta.Skill&theme=tokyonight&hide_border=true" width="100%" alt="Ta.Skill" />
       </a>
     </td>
   </tr>
