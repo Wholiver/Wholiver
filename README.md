@@ -24,25 +24,9 @@
   </a>
 </p>
 
-</div>
+<br />
 
----
-
-### 👨‍💻 About Me
-
-Independent developer & researcher focused on **AI coding agents**, **agent harness engineering**, and **Apple ecosystem craftsmanship**.
-
-- 🔭 Currently building **[Mochi](https://github.com/Wholiver/Mochi)** (Swift) & **[Metis](https://github.com/Wholiver/metis)**
-- 🧠 Exploring **project-scoped agent memory**, **self-reflection**, **deterministic verification**, and **long-running agent reliability**
-- 🎨 Passionate about high-craft UI/UX, **[SwiftUI design systems](https://github.com/Wholiver/swiftui-design-skill)**, and **MCP tooling**
-- ⚡ Motto: *Build cool things.*
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
+<!-- Featured Projects Pin Cards -->
 <table>
   <tr>
     <td width="50%">
@@ -63,57 +47,31 @@ Independent developer & researcher focused on **AI coding agents**, **agent harn
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/Wholiver/Math.Skill">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wholiver&repo=Math.Skill&theme=tokyonight&hide_border=true" width="100%" alt="Math.Skill" />
+      <a href="https://github-readme-stats.vercel.app/api/pin/?username=Wholiver&repo=Math.Skill&theme=tokyonight&hide_border=true" width="100%" alt="Math.Skill" />
       </a>
     </td>
   </tr>
 </table>
 
-</div>
+<br />
 
-<details>
-<summary>✨ More Projects & AI Skills</summary>
+<!-- Tech Stack Badges -->
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Swift-0f172a?style=for-the-badge&logo=swift&logoColor=F05138" alt="Swift" />
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SwiftUI-0f172a?style=for-the-badge&logo=apple&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Cloudflare-0f172a?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-0f172a?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+</p>
 
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| **[Mochi](https://github.com/Wholiver/Mochi)** | `Swift` | Currently in active development |
-| **[metisagent.tech](https://github.com/Wholiver/metisagent.tech)** | `TypeScript` | Official website for Metis, the open-source coding agent harness |
-| **[Ta.Skill](https://github.com/Wholiver/Ta.Skill)** | `AI Skill` | High-fidelity stylized conversational persona agent |
-| **[TimCook.Skill](https://github.com/Wholiver/TimCook.Skill)** | `AI Skill` | Operations & business decision-making assistant skill |
+<br />
 
-</details>
-
----
-
-### 🛠️ Tech Stack & Toolbox
-
-<div align="center">
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
-![Swift](https://img.shields.io/badge/Swift-0f172a?style=for-the-badge&logo=swift&logoColor=F05138)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-**Frameworks, Platforms & Tooling**
-
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0f172a?style=for-the-badge&logo=apple&logoColor=white)
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0f172a?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0f172a?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
+<!-- GitHub Analytics -->
 <table>
   <tr>
     <td width="54%" align="center">
@@ -133,11 +91,7 @@ Independent developer & researcher focused on **AI coding agents**, **agent harn
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wholiver&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
 
-</div>
-
----
-
 <!-- Animated Wave Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:312e81,100:0f172a&height=110&section=footer&text=Build%20cool%20things.&fontSize=20&fontColor=e2e8f0&fontAlignY=68" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:312e81,100:0f172a&height=110&section=footer&text=Build%20cool%20things.&fontSize=20&fontColor=e2e8f0&fontAlignY=68" width="100%" alt="Footer" />
+
 </div>
