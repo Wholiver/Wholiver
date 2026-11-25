@@ -19,8 +19,9 @@ jobs:
         run: |
           TMPFILE=$(mktemp)
           if curl -f -s -o "$TMPFILE" \
-              "https://github-readme-stats.vercel.app/api?username=Wholiver&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" \
-              && grep -q '<svg' "$TMPFILE"; then
+              "https://github-readme-stats.vercel.app/api?username=Wholiver&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" \
+              && grep -q '<svg' "$TMPFILE" \
+              && ! grep -q 'Something went wrong' "$TMPFILE"; then
             mv "$TMPFILE" assets/github-stats.svg
           else
             echo "::warning::Failed to fetch a valid SVG; keeping existing cached file."

@@ -36,8 +36,8 @@
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Wholiver/Mochi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wholiver&repo=Mochi&theme=tokyonight&hide_border=true" width="100%" alt="Mochi" />
+      <a href="https://github.com/Wholiver/TimCook.Skill">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wholiver&repo=TimCook.Skill&theme=tokyonight&hide_border=true" width="100%" alt="TimCook.Skill" />
       </a>
     </td>
     <td width="50%">
